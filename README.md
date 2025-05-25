@@ -1,0 +1,1 @@
+An in-progress website that helps students prepare for exams by allowing them to input test dates, subjects, and topics to create a personalized study plan. The platform provides interactive study tools such as flashcards, practice quizzes, and full-length practice tests to help students review key material.
